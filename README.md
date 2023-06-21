@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Aquino</h1>
 <h3 align="center">I've been a Brazilian full stack programmer for 3 years. I always seek to acquire more and more knowledge.</h3>
 
-- 🔭 I’m currently working on [Impusic](https://github.com/impusic)
+- 🔭 I’m currently working on [Proofy](https://proofy.com.br)
 
 - 🌱 I’m currently learning **PHP, Javascript and more backend languages.**
 
