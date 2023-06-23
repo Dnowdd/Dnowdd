@@ -1,21 +1,48 @@
-<h1 align="center">Hi 👋, I'm David Aquino</h1>
-<h3 align="center">I've been a Brazilian full stack programmer for 3 years. I always seek to acquire more and more knowledge.</h3>
-
-- 🔭 I’m currently working on [Proofy](https://proofy.com.br)
-
-- 🌱 I’m currently learning **PHP, Javascript and more backend languages.**
-
-- 🤝 I’m looking for help with **Cloud Storage**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Dnowdd?tab=repositories](https://github.com/Dnowdd?tab=repositories)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/dnowdd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dnowdd" height="30" width="40" /></a>
-<a href="https://discord.gg/yn2a4hgSrR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yn2a4hgSrR" height="30" width="40" /></a>
+<p align="center">
+  <img width="500" src="https://github.com/Dnowdd/Dnowdd/blob/main/resources/v1-no-outline.png" />
 </p>
+<h3 align="center">I am a Brazilian full-stack programmer and I have been studying this field for 4 years. I seek to acquire knowledge through my projects here on my profile.</h3>
+<div align="center">
+  
+![Followers](https://img.shields.io/github/followers/dnowdd)
+![Stars](https://img.shields.io/github/stars/dnowdd)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnowdd&show_icons=true&locale=en&layout=compact" alt="dnowdd" /></p>
+---
+
+<table align="right">
+ <tr><td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnowdd&show_icons=true&locale=en&layout=compact" alt="dnowdd" /></td></tr>
+</table>
+
+## About Me:
+
+- 🔭 I am currently working on a project called [Proofy](https://proofy.com.br), but I am open to new opportunities.
+
+- 🌱 I am currently studying **PHP**, **Python**, **React**, **Blender**, and **JavaScript**.
+
+- 🤝 I am looking to learn **Machine Learning**, **Websockets**, and **Data Security**.
+
+- 👨‍💻 You can find all my projects in the [repositories](https://github.com/Dnowdd?tab=repositories) tab on GitHub itself. Feel free to leave a star, fork them, or help me improve them further.
+
+
+## Languages and Tools:
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+  ![PYTHON](https://img.shields.io/badge/PYTHON-3670A0.svg?&style=flat&logo=python&logoColor=%23F7DF1E)&nbsp;
+  ![MySQL](https://img.shields.io/badge/MYSQL-%2300f.svg?&style=flat&logo=mariadb&logoColor=white)&nbsp;
+  ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
+  ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
+  ![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
+  ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;\
+  ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
+  ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
+  ![BLENDER](https://img.shields.io/badge/BLENDER-%23F5792A.svg?style=flat&logo=BLENDER&logoColor=white)&nbsp;
+  ![FIGMA](https://img.shields.io/badge/FIGMA-%23F24E1E.svg?style=flat&logo=FIGMA&logoColor=white)&nbsp;
+
+## Connect with me:
+  <a href="mailto:david@proofy.com.br" target="_blank"><img height="25" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://www.instagram.com/dnowdd/" target="_blank"><img height="25" src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/dnowdd/" target="_blank"><img height="25" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
