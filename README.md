@@ -17,13 +17,13 @@
 
 ## About Me:
 
-- 🔭 I am currently working on a project called [Proofy](https://proofy.com.br), but I am open to new opportunities.
+- 💼 I am currently working on a project called [Proofy](https://proofy.com.br), but I am open to new opportunities.
 
-- 🌱 I am currently studying **PHP**, **Python**, **React**, **Blender**, and **JavaScript**.
+- 📚 I am currently studying **PHP**, **Python**, **React**, **Blender**, and **JavaScript**.
 
-- 🤝 I am looking to learn **Machine Learning**, **Websockets**, and **Data Security**.
+- 📖 I am looking to learn **Machine Learning**, **Websockets**, and **Data Security**.
 
-- 👨‍💻 You can find all my projects in the [repositories](https://github.com/Dnowdd?tab=repositories) tab on GitHub itself. Feel free to leave a star, fork them, or help me improve them further.
+- ⭐️ You can find all my projects in the [repositories](https://github.com/Dnowdd?tab=repositories) tab on GitHub itself. Feel free to leave a star, fork them, or help me improve them further.
 
 
 ## Languages and Tools:
