@@ -26,14 +26,18 @@
 - ⭐️ You can find all my projects in the [repositories](https://github.com/Dnowdd?tab=repositories) tab on GitHub itself. Feel free to leave a star, fork them, or help me improve them further.
 
 
-## Languages and Tools:
+## Languages, Tools and OS:
   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=%23F7DF1E)&nbsp;
+  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)&nbsp;
+  ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
+  
   ![PYTHON](https://img.shields.io/badge/PYTHON-3670A0.svg?&style=flat&logo=python&logoColor=%23F7DF1E)&nbsp;
   ![MySQL](https://img.shields.io/badge/MYSQL-%2300f.svg?&style=flat&logo=mariadb&logoColor=white)&nbsp;
-  ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
+  
   ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
   ![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
   ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;\
@@ -41,6 +45,10 @@
   ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
   ![BLENDER](https://img.shields.io/badge/BLENDER-%23F5792A.svg?style=flat&logo=BLENDER&logoColor=white)&nbsp;
   ![FIGMA](https://img.shields.io/badge/FIGMA-%23F24E1E.svg?style=flat&logo=FIGMA&logoColor=white)&nbsp;
+  
+  ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+  ![WINDOWS](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)&nbsp;
+  
 
 ## Connect with me:
   <a href="mailto:david@proofy.com.br" target="_blank"><img height="25" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
