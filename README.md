@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" src="https://github.com/Dnowdd/Dnowdd/blob/main/resources/v1-no-outline.png" />
+  <img width="700" src="https://github.com/Dnowdd/Dnowdd/blob/main/resources/v4.png" />
 </p>
 <h3 align="center">I am a Brazilian full-stack programmer and I have been studying this field for 4 years. I seek to acquire knowledge through my projects here on my profile.</h3>
 <div align="center">
